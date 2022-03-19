@@ -4,14 +4,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How to run this project
 
-- Step 1: Download the project from github
-git clone [repository url]
+- **Step 1**: Download the project from github
 
-- Step 2: In local IDE, change the working directory to the project root
-cd [local repository]
+**```git clone [repository url]```**
 
-- Step 3: Install all dependencies
-npm install
+- **Step 2**: In local IDE, change the working directory to the project root
 
-- Step 4: Launch the project 
-npm start
+**```cd [local repository]```**
+
+- **Step 3**: Install all dependencies
+
+**```npm install```**
+
+- **Step 4**: Launch the project 
+
+**```npm start```**
